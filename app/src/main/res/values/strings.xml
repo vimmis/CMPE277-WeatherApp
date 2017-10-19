@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="change_city">Change city</string>
+    <string name="place_not_found">Oops! Weather data not found.</string>
+</resources>
